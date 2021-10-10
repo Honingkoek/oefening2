@@ -1,0 +1,14 @@
+.scam{
+    font-size: xx-large;
+}
+body{
+    background-color: red;
+}
+img{
+    max-width: 100px;
+    max-height: 100px;
+    margin-left: 100px;
+}
+text{
+    font-family: georgia;
+}
